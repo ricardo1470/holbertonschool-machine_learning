@@ -2,7 +2,7 @@
 ---
 | **Filename** | **Description** |
 |---|---|
-| [0x0A-object_detection]() | add description  |
+| [0x0A-object_detection](https://github.com/ricardo1470/holbertonschool-machine_learning/tree/master/supervised_learning/0x0A-object_detection) | add description  |
 
 ---
 > ## contact 💬
